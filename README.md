@@ -17,7 +17,7 @@ pip install numpy
 1. Clone este repositório para a sua máquina local:
 
 ```bash
-git clone [https://github.com/EdvaldoFilhoPro/SimpleLinearRegression/blob/main/Regress%C3%A3o_Linear_Simples.ipynb)](https://github.com/EdvaldoFilhoPro/SimpleLinearRegression/blob/main/Regress%C3%A3o_Linear_Simples.ipynb)
+git clone https://github.com/EdvaldoFilhoPro/SimpleLinearRegression/blob/main/Regress%C3%A3o_Linear_Simples.ipynb
 ```
 
 2. Navegue até o diretório do projeto:
