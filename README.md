@@ -34,8 +34,6 @@ cd repo-de-regressao-linear
 python main.py
 ```
 
-Isso criará uma instância da classe `SimpleLinearRegression`, calculará os coeficientes de regressão e fará uma previsão para um valor de entrada.
-
 ## Personalização
 
 Você pode personalizar este projeto de acordo com as suas necessidades. Aqui estão algumas sugestões:
@@ -48,10 +46,3 @@ Você pode personalizar este projeto de acordo com as suas necessidades. Aqui es
 
 Contribuições são bem-vindas! Se você quiser adicionar recursos, corrigir bugs ou melhorar a documentação, sinta-se à vontade para abrir um pull request.
 
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
----
-
-Esse é um modelo básico de README que fornece informações essenciais sobre o projeto. Lembre-se de adaptar o README de acordo com as necessidades específicas do seu projeto e incluir informações adicionais, como exemplos de uso, documentação mais detalhada e informações sobre como contribuir.
